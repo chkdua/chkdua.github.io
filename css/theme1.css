@@ -1,0 +1,30 @@
+#overlay {
+position: fixed;
+display: none;
+width: 100%;
+height: 100%;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: rgba(0,0,0,0.5);
+z-index: 2;
+cursor: pointer;
+}
+#text{
+position: absolute;
+color: white;
+transform: translate(-50%,-50%);
+-ms-transform: translate(-50%,-50%);
+}
+@media only screen and (min-width: 1000px) {
+	.image-gallery { gap: 20px; }
+	.image-gallery > li { width: 30%; flex-basis: 250px; }
+	#text { top: 50%; left: 50%; font-size: 40px;}
+}
+@media only screen and (max-width: 600px) {
+	.image-gallery { gap: 10px; }
+	.image-gallery > li { width: 25%; flex-basis: 100px; }
+	#text { top: 30%; left: 50%; font-size: 25px;}
+}
+.white {color:#fff; text-align:center;}

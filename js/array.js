@@ -1,0 +1,2 @@
+var arrSite = ['www.tukuge01.com', '2sex.maulon.pro', 'www.anhsex18.com', 'anhsex88.store', 'chinagirlclub.com', 'hotgirlchina.com', 'bestgirlsexy.com', 'hotgirl.biz', 'goddess247.com', 'pibys.win', 'cutexinh.com', 'babeasia.com'];
+var arrName = ['Tukuge', 'Maulon', 'AnhSex18', 'AnhSex88', 'ChinaGirlClub', 'HotGirlChina', 'BestGirlSexy', 'HotGirl', 'Goddess247', 'Pibys', 'CuteXinh', 'BabeAsia'];

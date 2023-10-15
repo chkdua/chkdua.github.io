@@ -1,0 +1,4 @@
+@media only screen and (min-width: 1000px) {
+	.image-gallery { gap: 20px; }
+	.image-gallery > li { width: 30%; flex-basis: 350px; }
+}
