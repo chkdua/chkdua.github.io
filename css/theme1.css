@@ -25,6 +25,6 @@ transform: translate(-50%,-50%);
 @media only screen and (max-width: 600px) {
 	.image-gallery { gap: 10px; }
 	.image-gallery > li { width: 25%; flex-basis: 100px; }
-	#text { top: 30%; left: 50%; font-size: 25px;}
+	#text { top: 30%; left: 50%; font-size: 20px;}
 }
 .white {color:#fff; text-align:center;}
